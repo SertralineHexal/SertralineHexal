@@ -19,5 +19,3 @@
 <br>
 <br>
 ## Remember to take your daily dose of Sertraline
-
-![alt](https://www.felleskatalogen.no/medisin/foto-preparat/40210491)
