@@ -19,3 +19,6 @@
 - Websites, Tailwind (Tailwind on top)
 - Cool fullstack applications
 
+**Want to get in contact with me/even jobs?**
+- Contact me using something like Cinny (a great matrix client).
+- @sertralinehexal:matrix.org
